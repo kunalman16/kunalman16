@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate web development student</h3>
-<imh align="right" alt="coding picture" width="400px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding picture" width="400px" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
